@@ -1,0 +1,18 @@
+Subject: Reactivar a túa conta en "{SITENAME}"
+
+Un administrador requeriu a reactivación da túa conta. Agora mesmo a túa conta está inactiva.
+Por favor, segue os pasos indicados para reactivar a túa conta.
+
+Por favor conserva este correo electrónico por seguridade. Os datos da túa conta son os seguintes:
+
+----------------------------
+Nome de usuario: {USERNAME}
+----------------------------
+
+O teu contrasinal foi gardado de xeito seguro na nosa base de datos e non pode ser recuperado. No caso de o esqueceres, poderás establecer un novo empregando o correo electrónico asociado á túa conta.
+
+Por favor, visita a seguinte ligazón para reactivar a túa conta:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

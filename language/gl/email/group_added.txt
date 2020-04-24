@@ -1,0 +1,11 @@
+Subject: Foches engadido a este grupo de usuarios
+
+Parabéns,
+
+Foches engadido ao grupo "{GROUP_NAME}" de "{SITENAME}".
+Esta acción foi efectuadaa polo líder do grupo ou por un administrador. Contacta con eles para obter máis información.
+
+Para ver ver os teus grupos:
+{U_GROUP}
+
+{EMAIL_SIG}

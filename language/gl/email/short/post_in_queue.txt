@@ -1,0 +1,13 @@
+Subject: Notificación de moderación de mensaxe - "{TOPIC_TITLE}"
+
+Ola {USERNAME},
+
+Estás a recibir esta notificación porque se require a aprobación de "{POST_SUBJECT}" en "{SITENAME}".
+
+Ver a mensaxe:
+{U_VIEW_POST}
+
+Ver o tema:
+{U_TOPIC}
+
+{EMAIL_SIG}

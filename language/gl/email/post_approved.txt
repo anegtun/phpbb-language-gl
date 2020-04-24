@@ -1,0 +1,13 @@
+Subject: Mensaxe aprobada – "{POST_SUBJECT}"
+
+Ola {USERNAME},
+
+Estás a recibir esta notificación porque a túa mensaxe "{POST_SUBJECT}" en "{SITENAME}" foi aprobada por un moderador ou administrador.
+
+Ver a mensaxe:
+{U_VIEW_POST}
+
+Ver o tema:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}

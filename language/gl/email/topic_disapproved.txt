@@ -1,0 +1,11 @@
+Subject: Tema rexeitado – "{TOPIC_TITLE}"
+
+Ola {USERNAME},
+
+Estás a recibir esta notificación porque o teu tema "{TOPIC_TITLE}" proposto en "{SITENAME}" foi rexeitado por un moderador ou administrador.
+
+A razón indicada é a seguinte:
+
+{REASON}
+
+{EMAIL_SIG}
