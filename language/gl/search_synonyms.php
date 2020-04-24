@@ -11,7 +11,7 @@
 * 
 * Traducido por: https://gaelicogalego.gal/ Asociación Galega de Fútbol Gaélico
 * Baseado no traballo da CiberIrmandade da Fala
-* Código fonte: https://sourceforge.net/projects/phpbb3-language-pack-gl/
+* Código fonte: https://github.com/anegtun/phpbb-language-gl
 */
 
 if (!defined('IN_PHPBB'))
