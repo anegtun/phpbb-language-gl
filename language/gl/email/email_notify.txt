@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Correo a un amigo
+
+Ola {TO_USERNAME},
+
+Este correo-e foi enviado dende "{SITENAME}" por {FROM_USERNAME} pensando que podías ter interese no seguinte tema:
+
+{TOPIC_NAME}
+
+Podes atopalo en:
+
+{U_TOPIC}
+
+Pode que tamén se inclúa unha mensaxe de {FROM_USERNAME} aquí abaixo. Por favor ten en conta que esta mensaxe non foi enviada ou aprobada polos administradores. Se desexas presentar unha queixa por recibires este correo contacta cun administrador en {BOARD_CONTACT}. Por favor cita as cabeceiras da mensaxe cando contactes con este enderezo.
+
+----------
+
+{MESSAGE}

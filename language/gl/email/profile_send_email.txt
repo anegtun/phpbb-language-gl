@@ -1,0 +1,13 @@
+
+Ola {TO_USERNAME},
+
+O seguinte correo foiche enviado por {FROM_USERNAME} a través da túa conta en "{SITENAME}". Se esta mensaxe é spam, contén insultos ou outros comentarios ofensivos, por favor, contacta cun administrador no seguinte enderezo:
+
+{BOARD_CONTACT}
+
+Inclúe o correo completo (especialmente as cabeceiras). Ten en conta que o enderezo de resposta a este corree é o de {FROM_USERNAME}.
+
+A mensaxe que che foi enviada é a seguinte:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

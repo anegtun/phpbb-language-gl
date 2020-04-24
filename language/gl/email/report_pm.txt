@@ -1,0 +1,10 @@
+Subject: Denuncia de mensaxe privada - "{SUBJECT}"
+
+Ola {USERNAME},
+
+Estás a recibir esta notificación porque se denunciou a mensaxe privada "{SUBJECT}" de "{AUTHOR_NAME}" en "{SITENAME}".
+
+Ver o informe:
+{U_VIEW_REPORT}
+
+{EMAIL_SIG}
