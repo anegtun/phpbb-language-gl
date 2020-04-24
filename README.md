@@ -4,6 +4,10 @@ Galician language pack to localize the phpBB forum software.
 
 ## Informations
 
-Includes the Galician locales compatible with phpBB 3.3.0 + 1.0.5
+Includes the following Galician locales compatible with:
 
-Released under the GNU General Public License 2.0.
+- [phpBB 3.3.0](https://github.com/phpbb/phpbb/releases/tag/release-3.3.0)
+  - Bundled extension:
+    - [VigLink 1.0.5](https://github.com/phpbb-extensions/viglink/releases/tag/release-1.0.5)
+
+Released under the [GNU General Public License 2.0](https://raw.githubusercontent.com/anegtun/phpbb-language-gl/master/LICENSE).
