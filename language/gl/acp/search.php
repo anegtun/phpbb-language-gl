@@ -113,15 +113,19 @@ $lang = array_merge($lang, array(
 	'SEARCH_GUEST_INTERVAL'					=> 'Intervalo de saturación (flood) para as procuras dos convidados',
 	'SEARCH_GUEST_INTERVAL_EXPLAIN'			=> 'Número de segundos que os convidados deben agardar entre dúas procuras. Se un convidado fixo unha procura, os demais deberán agardar até que remate o intervalo de tempo.',
 	'SEARCH_INDEX_CREATE_REDIRECT'			=> array(
+		1	=> 'Indexáronse todas as mensaxes publicadas ata o id %2$d, da cal %1$d estaba neste paso.<br />',
 		2	=> 'Indexáronse todas as mensaxes publicadas ata o id %2$d, das cales %1$d estaban neste paso.<br />',
 	),
 	'SEARCH_INDEX_CREATE_REDIRECT_RATE'		=> array(
+		1	=> 'O ratio de indexación é de aproximadamente %1$.1f mensaxe por segundo.<br />Indexación en proceso…',
 		2	=> 'O ratio de indexación é de aproximadamente %1$.1f mensaxes por segundo.<br />Indexación en proceso…',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT'			=> array(
+		1	=> 'Todas as mensaxes publicadas ata o id %2$d foron eliminadas do índice de procura, da cal %1$d estaba neste paso',
 		2	=> 'Todas as mensaxes publicadas ata o id %2$d foron eliminadas do índice de procura, das cales %1$d estaban neste paso',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT_RATE'		=> array(
+		1	=> 'O ratio de borrado é de aproximadamente %1$.1f mensaxe por segundo.<br />Borrado en progreso…',
 		2	=> 'O ratio de borrado é de aproximadamente %1$.1f mensaxes por segundo.<br />Borrado en progreso…',
 	),
 	'SEARCH_INDEX_CREATED'					=> 'Indexadas correctamente todas as mensaxes na base de datos.',
@@ -140,5 +144,5 @@ $lang = array_merge($lang, array(
 	'YES_SEARCH'							=> 'Activar facilidades de procura',
 	'YES_SEARCH_EXPLAIN'					=> 'Activar funcionalidade de recoñecemento de usuario, incluíndo procura de membros.',
 	'YES_SEARCH_UPDATE'						=> 'Activar actualización de texto completo',
-	'YES_SEARCH_UPDATE_EXPLAIN'				=> 'Actualización de índices de texto completo ao enviar mensaxes, anúlase se a procura está desactivada.',
+	'YES_SEARCH_UPDATE_EXPLAIN'				=> 'Actualización de índices de texto completo ao enviar mensaxes, anúlase se a procura está desactivada.'
 ));

@@ -513,7 +513,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_ACL_DEL_ADMIN_GLOBAL_A_'		=> '<strong>Administradores eliminados</strong><br />» %s',
 	'LOG_ACL_DEL_MOD_GLOBAL_M_'			=> '<strong>Moderadores globáis eliminados</strong><br />» %s',
-	'LOG_ACL_DEL_MOD_LOCAL_M_'			=> '<strong>Moderadores eliminados</strong> de %1$s<br />» %2$',
+	'LOG_ACL_DEL_MOD_LOCAL_M_'			=> '<strong>Moderadores eliminados</strong> de %1$s<br />» %2$s',
 	'LOG_ACL_DEL_FORUM_LOCAL_F_'		=> '<strong>Eliminados permisos no foro</strong> %1$s<br />» %2$s',
 
 	'LOG_ACL_TRANSFER_PERMISSIONS'		=> '<strong>Permisos transferidos</strong><br />» %s',
@@ -612,9 +612,9 @@ $lang = array_merge($lang, array(
 	'LOG_DISALLOW_ADD'		=> '<strong>Engadido nome de usuario desautorizado </strong><br />» %s',
 	'LOG_DISALLOW_DELETE'	=> '<strong>Elimiando nome de usuario desautorizado</strong>',
 
-	'LOG_DB_BACKUP'			=> '<b>Copia de respaldo da base de dados</b>',
+	'LOG_DB_BACKUP'			=> '<strong>Copia de respaldo da base de dados</strong>',
 	'LOG_DB_DELETE'			=> '<strong>Copia de respaldo da base de datos eliminada</strong>',
-	'LOG_DB_RESTORE'		=> '<b>Restaurar copia de respaldo da base de dados</b>',
+	'LOG_DB_RESTORE'		=> '<strong>Restaurar copia de respaldo da base de dados</strong>',
 
 	'LOG_DOWNLOAD_EXCLUDE_IP'	=> '<strong>Excluído IP/host da a listaxe de descargas</strong><br />» %s',
 	'LOG_DOWNLOAD_IP'			=> '<strong>Engadido IP/host á listaxe de descargas</strong><br />» %s',
@@ -643,7 +643,7 @@ $lang = array_merge($lang, array(
 	'LOG_GENERAL_ERROR'	=> '<strong>Houbo un erro xeral</strong>: %1$s <br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>Creado novo grupo de usuarios</strong><br />» %s',
-	'LOG_GROUP_DEFAULTS'	=> '<strong>Grupo por defecto para membros</strong><br />» %s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>“%1$s” convertido en grupo por defecto para membros</strong><br />» %2$s',
 	'LOG_GROUP_DELETE'		=> '<strong>Grupo de usuarios borrado</strong><br />» %s',
 	'LOG_GROUP_DEMOTED'		=> '<strong>Líderes degradados no grupo de usuario</strong> %1$s<br />» %2$s',
 	'LOG_GROUP_PROMOTED'	=> '<strong>Membros promocionados a líder no grupo de usuario</strong> %1$s<br />» %2$s',
@@ -679,10 +679,10 @@ $lang = array_merge($lang, array(
 
 	'LOG_MCP_CHANGE_POSTER'	=> '<strong>Cambiado póster do tema "%1$s"</strong><br />» desde %2$s a %3$s',
 
-	'LOG_MODULE_DISABLE'	=> '<strong>Módulo desactivado</strong>',
-	'LOG_MODULE_ENABLE'		=> '<strong>Módulo activado</strong>',
-	'LOG_MODULE_MOVE_DOWN'	=> '<strong>Módulo baixado</strong><br />» %s',
-	'LOG_MODULE_MOVE_UP'	=> '<strong>Módulo subido</strong><br />» %s',
+	'LOG_MODULE_DISABLE'	=> '<strong>Módulo desactivado</strong>» %s',
+	'LOG_MODULE_ENABLE'		=> '<strong>Módulo activado</strong>» %s',
+	'LOG_MODULE_MOVE_DOWN'	=> '<strong>Módulo baixado</strong><br />» %1$s embaixo de %2$s',
+	'LOG_MODULE_MOVE_UP'	=> '<strong>Módulo subido</strong><br />» %1$s enriba de %2$s',
 	'LOG_MODULE_REMOVED'	=> '<strong>Módulo eliminado</strong><br />» %s',
 	'LOG_MODULE_ADD'		=> '<strong>Módulo engadido</strong><br />» %s',
 	'LOG_MODULE_EDIT'		=> '<strong>Módulo editado</strong><br />» %s',
@@ -748,7 +748,7 @@ $lang = array_merge($lang, array(
 	'LOG_TEMPLATE_ADD_FS'			=> '<strong>Engadir un novo conxunto de modelos ao sistema de ficheiros</strong><br />» %s',
 	'LOG_TEMPLATE_CACHE_CLEARED'	=> '<strong>Eliminadas da caché as versións dos ficheiros de modelos no xogo <em>%1$s</em></strong><br />» %2$s',
 	'LOG_TEMPLATE_DELETE'			=> '<strong>Eliminouse o conxunto de modelos</strong><br />» %2$s',
-	'LOG_TEMPLATE_EDIT'				=> '<strong>Editouse o grupo de modelos</strong><br />» %2$s',
+	'LOG_TEMPLATE_EDIT'				=> '<strong>Editouse o grupo de modelos <em>%1$s</em></strong><br />» %2$s',
 	'LOG_TEMPLATE_EDIT_DETAILS'		=> '<strong>Detalles do conxunto de modelos editados</strong><br />» %s',
 	'LOG_TEMPLATE_EXPORT'			=> '<strong>Conxunto de modelos editado</strong><br />» %s',
 	// @deprecated 3.1
@@ -760,7 +760,7 @@ $lang = array_merge($lang, array(
 	'LOG_THEME_ADD_FS'			=> '<strong>Novo tema engadido ao sistema de ficheiros</strong><br />» %s',
 	'LOG_THEME_DELETE'			=> '<strong>Tema eliminado</strong><br />» %s',
 	'LOG_THEME_EDIT_DETAILS'	=> '<strong>Detalles do tema editados</strong><br />» %s',
-	'LOG_THEME_EDIT'			=> '<strong>Tema editado<em>%1$s</em></strong><br />» Clase modificada <em>%2$s</em>',
+	'LOG_THEME_EDIT'			=> '<strong>Tema editado <em>%1$s</em></strong>',
 	'LOG_THEME_EDIT_FILE'		=> '<strong>Tema editado <em>%1$s</em></strong><br />» Arquivo modificado <em>%2$s</em>',
 	'LOG_THEME_EXPORT'			=> '<strong>Tema exportado</strong><br />» %s',
 	// @deprecated 3.1
@@ -822,5 +822,5 @@ $lang = array_merge($lang, array(
 	'LOG_EXT_ENABLE'	=> '<strong>Extensión habilitada</strong><br />» %s',
 	'LOG_EXT_DISABLE'	=> '<strong>Extensión deshabilitada</strong><br />» %s',
 	'LOG_EXT_PURGE'		=> '<strong>Datos da extensión eliminados</strong><br />» %s',
-	'LOG_EXT_UPDATE'	=> '<strong>Extensión actualizada</strong><br />» %s',
+	'LOG_EXT_UPDATE'	=> '<strong>Extensión actualizada</strong><br />» %s'
 ));

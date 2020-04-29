@@ -76,5 +76,5 @@ $lang = array_merge($lang, array(
 	'STRUCTURE_ONLY'		=> 'Só a estrutura',
 
 	'TABLE_SELECT'		=> 'Selección da táboa',
-	'TABLE_SELECT_ERROR'=> 'Debes seleccionar unha táboa polo menos.',
+	'TABLE_SELECT_ERROR'=> 'Debes seleccionar unha táboa polo menos.'
 ));

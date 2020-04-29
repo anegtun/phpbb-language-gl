@@ -90,5 +90,5 @@ $lang = array_merge($lang, [
 	'UNINSTALL_PROSILVER'						=> 'Non podes desinstalar o estilo “prosilver”.',
 	'UNINSTALL_DEFAULT'							=> 'Non podes desinstalar o estilo por defecto.',
 
-	'BROWSE_STYLES_DATABASE'					=> 'Consulta a base de datos de estilos',
+	'BROWSE_STYLES_DATABASE'					=> 'Consulta a base de datos de estilos'
 ]);

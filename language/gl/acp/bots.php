@@ -71,5 +71,5 @@ $lang = array_merge($lang, array(
 	'ERR_BOT_NO_MATCHES'		=> 'Debes proporcionar polo menos un axente ou un IP para esta coincidencia de bot.',
 
 	'NO_BOT'		=> 'Non se atopou ningún robot coa ID especificada',
-	'NO_BOT_GROUP'	=> 'Imposíbel atopar grupo especial de bot',
+	'NO_BOT_GROUP'	=> 'Imposíbel atopar grupo especial de bot'
 ));

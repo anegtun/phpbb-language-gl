@@ -57,7 +57,7 @@ $lang = array_merge($lang, array(
 	'GLOBAL'				=> 'Anuncio global',
 
 	'IGNORED_TERMS'			=> 'ignorado',
-	'IGNORED_TERMS_EXPLAIN'	=> 'Foron ignoradas as seguintes palabras da túa procura porque se consideran palabras comúns: <b>%s</b>',
+	'IGNORED_TERMS_EXPLAIN'	=> 'Foron ignoradas as seguintes palabras da túa procura porque se consideran palabras comúns: <strong>%s</strong>',
 
 	'JUMP_TO_POST'			=> 'Ir á mensaxe',
 

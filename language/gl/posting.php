@@ -216,7 +216,7 @@ $lang = array_merge($lang, array(
 	'POSTED_ATTACHMENTS'		=> 'Arquivos anexos enviados',
 	'POST_APPROVAL_NOTIFY'		=> 'Cando a túa mensaxe sexa aprobada recibirás unha notificación.',
 	'POST_CONFIRMATION'			=> 'Confirmación do envío',
-	'POST_CONFIRM_EXPLAIN'		=> 'Para evitar a publicación automatizada de mensaxes,pídeseche que insiras un código de confirmación. Este código amósase na imaxe que deberías ver embaixo. Se tes algún tipo de deficiencia visual ou por calquera motivo non podes ler o código, ponte en contacto co %sAdministrador%S.',
+	'POST_CONFIRM_EXPLAIN'		=> 'Para evitar a publicación automatizada de mensaxes,pídeseche que insiras un código de confirmación. Este código amósase na imaxe que deberías ver embaixo. Se tes algún tipo de deficiencia visual ou por calquera motivo non podes ler o código, ponte en contacto co %sAdministrador%s.',
 	'POST_DELETED'				=> 'A túa mensaxe foi eliminada correctamente',
 	'POST_EDITED'				=> 'A túa mensaxe foi editada correctamente',
 	'POST_EDITED_MOD'			=> 'A túa mensaxe foi editada pero require aprobación',
@@ -260,6 +260,7 @@ $lang = array_merge($lang, array(
 	'TOO_MANY_ATTACHMENTS'		=> 'Non podes engadir outro arquivo anexo, %d é o máximo.',
 	'TOO_MANY_CHARS'			=> 'A túa mensaxe ten demasiados caracteres.',
 	'TOO_MANY_CHARS_LIMIT'		=> array(
+		1	=> 'Debes inserir como máximo %1$d carácter.',
 		2	=> 'Debes inserir como máximo %1$d caracteres.',
 	),
 	'TOO_MANY_POLL_OPTIONS'		=> 'Tentaches inserir demasiadas opcións na enquisa',
@@ -268,7 +269,7 @@ $lang = array_merge($lang, array(
 	'TOO_MANY_USER_OPTIONS'		=> 'Non podes especificar máis opcións por usuario das que existen na enquisa',
 	'TOPIC_BUMPED'				=> 'O tema foi reactivado correctamente',
 
-	'UNAUTHORISED_BBCODE'		=> 'Non podes usar determinados BBCodes: ',
+	'UNAUTHORISED_BBCODE'		=> 'Non podes usar determinados BBCodes: %s.',
 	'UNSUPPORTED_CHARACTERS_MESSAGE'	=> 'A túa mensaxe contén os seguintes caracteres inválidos:<br />%s',
 	'UNSUPPORTED_CHARACTERS_SUBJECT'	=> 'O teu asunto contén os seguintes caracteres inválidos:<br />%s',
 	'UPDATE_COMMENT'			=> 'Actualizar comentario',

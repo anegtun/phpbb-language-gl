@@ -175,5 +175,5 @@ $lang = array_merge($lang, array(
 
 	'USER_FIELD_NAME'	=> 'Nome de campo/título presentado ao usuario',
 
-	'VISIBILITY_OPTION'				=> 'Opción de visibilidade',
+	'VISIBILITY_OPTION'				=> 'Opción de visibilidade'
 ));

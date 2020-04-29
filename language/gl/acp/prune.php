@@ -94,5 +94,5 @@ $lang = array_merge($lang, array(
 	'PRUNE_STICKY'					=> 'Purgar destacados',
 	'PRUNE_SUCCESS'					=> 'Purgado de foros correcto',
 
-	'TOPICS_PRUNED'		=> 'Temas purgados',
+	'TOPICS_PRUNED'		=> 'Temas purgados'
 ));

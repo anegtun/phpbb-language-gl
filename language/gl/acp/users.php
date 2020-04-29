@@ -142,5 +142,5 @@ $lang = array_merge($lang, array(
 	'USER_RANK_UPDATED'				=> 'Rango de usuario actualizado',
 	'USER_SIG_UPDATED'				=> 'Sinatura actualizada correctamente',
 	'USER_WARNING_LOG_DELETED'		=> 'Non hai información ningunha dispoñible. Pode que fose eliminada a entrada do rexistro (log).',
-	'USER_TOOLS'					=> 'Ferramentas básicas',
+	'USER_TOOLS'					=> 'Ferramentas básicas'
 ));

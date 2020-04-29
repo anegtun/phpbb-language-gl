@@ -1,4 +1,4 @@
-Subject: Denuncia de mensaxe privada - "{SUBJECT}"
+Subject: Denuncia de mensaxe privada - "{TOPIC_TITLE}"
 
 Ola {USERNAME},
 

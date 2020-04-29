@@ -82,5 +82,5 @@ $lang = array_merge($lang, array(
 	'PARENT'				=> 'Pai',
 	'PARENT_NO_EXIST'		=> 'Non existe o pai',
 
-	'SELECT_MODULE'			=> 'Escolle un módulo',
+	'SELECT_MODULE'			=> 'Escolle un módulo'
 ));

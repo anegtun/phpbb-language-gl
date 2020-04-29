@@ -118,7 +118,7 @@ $lang = array_merge($lang, array(
 	'EDIT_SMILIES'				=> 'Editar emoticonas',
 	'EMOTION'					=> 'Emoción',
 	'EXPORT_ICONS'				=> 'Exportar e descargar icons.pak',
-	'EXPORT_ICONS_EXPLAIN'		=> '%sPremendo nesta ligazón, a configuración para as túas iconas instaladas será empaquetada como <samp>icons.pak</samp> co cal unha vez descargada pode ser usada para crear un ficheiro <samp>.zip</samp> ou <samp>.tgz</samp> contendo todas as túas iconas ademais do ficheiro de configuración de <samp>icons.pak</samp>.',
+	'EXPORT_ICONS_EXPLAIN'		=> '%sPremendo nesta ligazón, a configuración para as túas iconas instaladas será empaquetada como <samp>icons.pak</samp> co cal unha vez descargada pode ser usada para crear un ficheiro <samp>.zip</samp> ou <samp>.tgz</samp> contendo todas as túas iconas ademais do ficheiro de configuración de <samp>icons.pak</samp>%s.',
 	'EXPORT_SMILIES'			=> 'Exportar e descargar smilies.pak',
 	'EXPORT_SMILIES_EXPLAIN'	=> '%sPremendo nesta ligazón, a configuración para os teus risoños instalados comprimirase dentro de <samp>smilies.pak</samp> que unha vez descargado pode ser usado para crear un arquivo <samp>.zip</samp> ou <samp>.tgz</samp> que conterá todos os teus risoños e máis este arquivo de configuración do <samp>smilies.pak</samp>%s.',
 
@@ -290,5 +290,5 @@ $lang = array_merge($lang, array(
 	'REASON_TITLE_TRANSLATED'	=> 'Visualizar título do motivo',
 	'REASON_UPDATED'			=> 'Motivo actualizado correctamente.',
 
-	'USED_IN_REPORTS'		=> 'Usado nos informes/denuncias',
+	'USED_IN_REPORTS'		=> 'Usado nos informes/denuncias'
 ));

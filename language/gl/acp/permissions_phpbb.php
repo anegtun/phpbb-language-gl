@@ -214,5 +214,5 @@ $lang = array_merge($lang, array(
 	'ACL_A_BOTS'		=> 'Podes xestionar bots',
 	'ACL_A_REASONS'		=> 'Podes xestionar denuncias ou rexeitamentos',
 	'ACL_A_BACKUP'		=> 'Podes facer/restaurar unha copia de respaldo da base de datos',
-	'ACL_A_SEARCH'		=> 'Podes xestionar backends de procura e configuracións',
+	'ACL_A_SEARCH'		=> 'Podes xestionar backends de procura e configuracións'
 ));

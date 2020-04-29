@@ -157,5 +157,5 @@ $lang = array_merge($lang, array(
 	'USER_DEF_GROUPS_EXPLAIN'		=> 'Estes son grupos creados por ti ou por outro administrador. Podes xestionar os participantes así como editar as propiedades do grupo ou incluso eliminar o grupo.',
 	'USER_GROUP_DEFAULT'			=> 'Estabelecer como grupo por defecto',
 	'USER_GROUP_DEFAULT_EXPLAIN'	=> 'Dicindo si aquí configurarás este grupo como o grupo por defecto para usuarios engadidos.',
-	'USER_GROUP_LEADER'				=> 'Escoller como líder de grupo',
+	'USER_GROUP_LEADER'				=> 'Escoller como líder de grupo'
 ));

@@ -43,7 +43,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'TERMS_OF_USE_CONTENT'	=> 'Ao accederes a “%1$s” (de agora en diante “nós”, “nos”, “noso”, “%1$s”, “%2$s”), aceptas cumprir con todos os termos legais expostos a seguir. Se non concordas co cumprimento dos citados termos pregámosche entón que non uses e/ou accedas a “%1$s”. Estes termos poden ser modificados en calquera momento sen previo aviso e, aínda que faremos todo o posíbel por te informar, sería boa cousa que revisases estas normas de xeito regular, xa que se segues a usar “%1$s” logo dos cambios entenderase que estás de acordo con cumprir con todos eses termos legais tamén cando sexan modificados ou corrixidos.<br />
 	<br />
-	Os nosos foros están artellados polo phpBB (de agora en diante “eles”, “lles”, “seu”, “software phpBB”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”), unha solución de foros liberada baixo da “<a href="http://opensource.org/licenses/gpl-license.php">Licenza Pública Xeral</a>” (de aquí en diante “GPL”) que pode ser descargada en <a href="http://www.phpbb.com/">www.phpbb.com</a>. O software phpBB só facilita as discusións baseadas na Internet e o phpBB Group non é responsábel daquilo que permitimos e/ou non permitimos como contido e/ou condutas admisibeis. Para obter máis información verbo do phpBB, vai para: <a href="http://www.phpbb.com/">http://www.phpbb.com/</a>.<br />
+	Os nosos foros están artellados polo phpBB (de agora en diante “eles”, “lles”, “seu”, “software phpBB”, “www.phpbb.com”, “phpBB Group”, “phpBB Teams”), unha solución de foros liberada baixo da “<a href="http://opensource.org/licenses/gpl-2.0.php">Licenza Pública Xeral</a>” (de aquí en diante “GPL”) que pode ser descargada en <a href="http://www.phpbb.com/">www.phpbb.com</a>. O software phpBB só facilita as discusións baseadas na Internet e o phpBB Group non é responsábel daquilo que permitimos e/ou non permitimos como contido e/ou condutas admisibeis. Para obter máis información verbo do phpBB, vai para: <a href="http://www.phpbb.com/">http://www.phpbb.com/</a>.<br />
 	<br />
 	Ao aceptares estes termos comprométeste a non publicar ningún tipo de material abusivo, obsceno, vulgar, difamatorio, de odio, ameazante, sexualmente orientado ou de calquera outro tipo que poida violar a legalidade vixente no teu país, no país onde se atope hospedado “%1$s” ou as Leis Internacionais. Se tal cousa fixeses poderá ser inmediata e permanentemente prohibido o teu acceso, ademais de ser notificado o teu Provedor de Servizos de Internet, se así o considerásemos. Os enderezos IP de todas as mensaxes publicadas gárdanse para axudar a cumprir con estas condicións. Así mesmo aceptas que “%1$s” ten o dereito de eliminar, editar, mover ou pechar calquera tema en calquera momento que creamos oportuno. Como usuario aceptas que calquera información que insiras sexa almacenada nun banco de datos. Aínda que esta información non será accesíbel para terceiras partes sen o teu consentimento, nin “%1$s” nin o phpBB poden ser responsabilizados por calquera tentativa de hacking que poida poñer en compromiso os citados datos.',
 
@@ -102,7 +102,7 @@ $lang = array_merge($lang, array(
 	'AVATAR_DRIVER_REMOTE_EXPLAIN'	=> 'Enlace ao avatar aloxado noutro servidor.',
 	'AVATAR_DRIVER_UPLOAD_TITLE'	=> 'Subir avatar',
 	'AVATAR_DRIVER_UPLOAD_EXPLAIN'	=> 'Sube o teu propio avatar.',
-	'AVATAR_EXPLAIN'				=> 'Dimensións máximas; largo %1$d píxeles, alto %2$d píxeles, tamaño do ficheiro: %3$.2f KiB.',
+	'AVATAR_EXPLAIN'				=> 'Dimensións máximas - ancho: %1$s, alto: %2$s, tamaño do ficheiro: %3$.2f KiB.',
 	'AVATAR_EXPLAIN_NO_FILESIZE'	=> 'Dimensións máximas - ancho: %1$s, alto: %2$s.',
 	'AVATAR_FEATURES_DISABLED'		=> 'A funcionalidade de avatares está desactivada actualmente.',
 	'AVATAR_GALLERY'				=> 'Galería local',
@@ -565,7 +565,7 @@ $lang = array_merge($lang, array(
 	'UCP_USERGROUPS_MEMBER'		=> 'Editar afiliacións',
 	'UCP_USERGROUPS_MANAGE'		=> 'Xestionar grupos',
 
-	'UCP_PASSWORD_RESET_DISABLED'	=> 'Deshabilitouse a posibilidade de reiniciar o contrasinal. Se precisas axuda accedendo á túa conta, contacta cun %Administrador%s',
+	'UCP_PASSWORD_RESET_DISABLED'	=> 'Deshabilitouse a posibilidade de reiniciar o contrasinal. Se precisas axuda accedendo á túa conta, contacta cun %sAdministrador%s',
 	'UCP_REGISTER_DISABLE'			=> 'Nestes intres non se pode crear unha nova conta.',
 	'UCP_RESEND'					=> 'Enviar correo de activación',
 	'UCP_WELCOME'					=> 'Benvido ao Panel de Control de Usuario (UCP). Dende aquí podes controlar, ver e actualizar o teu perfil, preferencias, foros e temas os que estás subscrito. Tamén podes enviar mensaxes a outros usuarios (se está permitido). Asegúrate de ler calquera aviso antes de continuar.',

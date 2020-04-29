@@ -167,5 +167,5 @@ $lang = array_merge($lang, array(
 	'TYPE_FORUM'		=> 'Foro',
 	'TYPE_LINK'			=> 'Ligazón',
 
-	'UNLOCKED'			=> 'Desbloqueado',
+	'UNLOCKED'			=> 'Desbloqueado'
 ));

@@ -634,5 +634,5 @@ $lang = array_merge($lang, array(
 	'JAB_VERIFY_PEER'				=> 'Verificar certificado SSL',
 	'JAB_VERIFY_PEER_EXPLAIN'		=> 'Require a verificación do certificado SSL usado polo servidor Jabber. <br><em><strong>Advertencia:</strong> Conectar pares con certificados SSL sen verificar pode supor un risco de seguridade.</em>',
 	'JAB_VERIFY_PEER_NAME'			=> 'Verificar host Jabber',
-	'JAB_VERIFY_PEER_NAME_EXPLAIN'	=> 'Require a verificación do hostname do servidor Jabber que use conexións SSL/TLS. <br><em><strong>Advertencia:</strong> Conectar pares con certificados SSL sen verificar pode supor un risco de seguridade.</em>',
+	'JAB_VERIFY_PEER_NAME_EXPLAIN'	=> 'Require a verificación do hostname do servidor Jabber que use conexións SSL/TLS. <br><em><strong>Advertencia:</strong> Conectar pares con certificados SSL sen verificar pode supor un risco de seguridade.</em>'
 ));

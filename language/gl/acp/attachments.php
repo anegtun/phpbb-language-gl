@@ -166,5 +166,5 @@ $lang = array_merge($lang, array(
 	'UPLOAD_DIR'					=> 'Directorio de subidas',
 	'UPLOAD_DIR_EXPLAIN'			=> 'Ruta ao espazo de almacén dos adxuntos. Ten en conta que se o mudas unha vez existan arquivos subidos, deberás movelos a man.',
 	'UPLOAD_ICON'					=> 'Icona de subida',
-	'UPLOAD_NOT_DIR'				=> 'A ubicación de subida que especificaches non semella ser un directorio.',
+	'UPLOAD_NOT_DIR'				=> 'A ubicación de subida que especificaches non semella ser un directorio.'
 ));

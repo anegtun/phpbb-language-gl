@@ -3,7 +3,7 @@ List-Unsubscribe: <{U_STOP_WATCHING_TOPIC}>
 
 Ola {USERNAME},
 
-Estás a recibir esta notificación porque estás subscrito ao tema "{TOPIC_TITLE}" en "{SITENAME}". Este tema recibiu unha resposta dende a túa última visita. Podes usar a seguinte ligazón para ver a resposta enviada. Non se che enviarán máis notificacións ata que visites o tema.
+Estás a recibir esta notificación porque estás subscrito ao tema "{TOPIC_TITLE}" en "{SITENAME}". Este tema recibiu unha resposta<!-- IF AUTHOR_NAME != '' --> de {AUTHOR_NAME}<!-- ENDIF --> dende a túa última visita. Podes usar a seguinte ligazón para ver a resposta enviada. Non se che enviarán máis notificacións ata que visites o tema.
 
 Ver as últimas mensaxes dende a túa última visita:
 {U_NEWEST_POST}

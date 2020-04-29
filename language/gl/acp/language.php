@@ -49,9 +49,9 @@ $lang = array_merge($lang, array(
 
 	'LANGUAGE_DETAILS_UPDATED'			=> 'Detalles de idioma actualizados correctamente.',
 	'LANGUAGE_PACK_ALREADY_INSTALLED'	=> 'Este paquete de idioma xa está instalado.',
-	'LANGUAGE_PACK_DELETED'				=> 'O paquete de idioma <b>%s</b> foi eliminado correctamente. Todos os usuarios que o estaban a empregar pasan a usar o idioma por defecto.',
+	'LANGUAGE_PACK_DELETED'				=> 'O paquete de idioma <strong>%s</strong> foi eliminado correctamente. Todos os usuarios que o estaban a empregar pasan a usar o idioma por defecto.',
 	'LANGUAGE_PACK_DETAILS'				=> 'Detalles do paquete de idioma',
-	'LANGUAGE_PACK_INSTALLED'			=> 'O paquete de idioma <b>%s</b> foi instalado correctamente.',
+	'LANGUAGE_PACK_INSTALLED'			=> 'O paquete de idioma <strong>%s</strong> foi instalado correctamente.',
 	'LANGUAGE_PACK_CPF_UPDATE'			=> 'As cadeas de idioma dos campos de perfil personalizados foron copiados dende o idioma padrón. Por favor, múdaos se fose preciso.',
 	'LANGUAGE_PACK_ISO'					=> 'ISO',
 	'LANGUAGE_PACK_LOCALNAME'			=> 'Nome local',
@@ -76,5 +76,5 @@ $lang = array_merge($lang, array(
 	'THOSE_MISSING_LANG_VARIABLES'		=> 'As seguintes variables de idioma faltan no paquete de idioma “%s”',
 	'UNINSTALLED_LANGUAGE_PACKS'	=> 'Paquetes de idioma sen instalar',
 
-	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'Consulta a base de datos de paquetes de idioma',
+	'BROWSE_LANGUAGE_PACKS_DATABASE'	=> 'Consulta a base de datos de paquetes de idioma'
 ));

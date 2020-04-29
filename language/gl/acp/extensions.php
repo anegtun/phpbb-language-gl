@@ -132,5 +132,5 @@ $lang = array_merge($lang, array(
 	'BROWSE_EXTENSIONS_DATABASE'		=> 'Consultar base de datos de extensións',
 
 	'META_FIELD_NOT_SET'	=> 'Non se estableceu o campo meta %s requirido.',
-	'META_FIELD_INVALID'	=> 'O campo meta %s é inválido.',
+	'META_FIELD_INVALID'	=> 'O campo meta %s é inválido.'
 ));

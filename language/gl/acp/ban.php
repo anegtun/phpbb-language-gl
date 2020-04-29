@@ -83,5 +83,5 @@ $lang = array_merge($lang, array(
 	'USER_BAN_EXPLAIN'			=> 'Podes prohibir varios usuarios dunha vez inserindo cada nome nunha nova liña. Podes usar a opción <span style="text-decoration: underline;">Procurar un membro</span> para facilitarche a vida.',
 	'USER_NO_BANNED'			=> 'Non hai nomes de usuario prohibidos',
 	'USER_UNBAN'				=> 'Quitar prohibición de nomes de usuario',
-	'USER_UNBAN_EXPLAIN'		=> 'Podes quitar a prohibición/exclusión sobre varios usuarios usando a combinación de rato e teclado axeitada ao teu ordenador e navegador. Os usuarios excluídos teñen o fondo resaltado.',
+	'USER_UNBAN_EXPLAIN'		=> 'Podes quitar a prohibición/exclusión sobre varios usuarios usando a combinación de rato e teclado axeitada ao teu ordenador e navegador. Os usuarios excluídos teñen o fondo resaltado.'
 ));

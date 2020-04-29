@@ -44,7 +44,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'TRANSLATION_INFO'	=> '&copy; 2007-2010 Traducido ao galego pola <a href="http://www.ciberirmandade.org/foros/">CiberIrmandade da Fala</a><br/>&copy; 2020 Revisado e adaptado a phpBB 3.3 pola <a href="https://gaelicogalego.gal/">Asociación Galega de Fútbol Gaélico</a>',
+	'TRANSLATION_INFO'	=> '&copy; 2007-2010 Traducido ao galego pola <a href="http://www.ciberirmandade.org/foros/">CiberIrmandade da Fala</a><br>&copy; 2020 Revisado e adaptado a phpBB 3.3 pola <a href="https://gaelicogalego.gal/">Asociación Galega de Fútbol Gaélico</a>',
 	'DIRECTION'			=> 'ltr',
 	'DATE_FORMAT'		=> '|d M Y|',	// 01 Jan 2007 (with Relative days enabled)
 	'DATETIME_FORMAT'	=> '|d M Y, H:i|',	// 01 Jan 2007, 13:37 (with Relative days enabled)
@@ -473,6 +473,7 @@ $lang = array_merge($lang, array(
 	// A, B, C and others replied...
 	'NOTIFICATION_BOOKMARK'				=> array(
 		1	=> '<strong>Resposta</strong> de %1$s no tema:',
+		2	=> '<strong>Respostas</strong> de %1$s no tema:',
 	),
 	'NOTIFICATION_FORUM'				=> '<em>Foro:</em> %1$s',
 	'NOTIFICATION_GROUP_REQUEST'		=> '%1$s pediu <strong>unirse ao grupo</strong> %2$s.',
@@ -481,12 +482,14 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_PM'					=> '<strong>Mensaxe privado</strong> de %1$s:',
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>Resposta</strong> de %1$s no tema:',
+		2	=> '<strong>Respostas</strong> de %1$s no tema:',
 	),
 	'NOTIFICATION_POST_APPROVED'		=> '<strong>Mensaxe aprobada</strong>:',
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>Mensaxe rexeitada</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> 'Solicitada <strong>apobración de mensaxe</strong> por %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
 		1	=> '<strong>Citado</strong> por %1$s en:',
+		2	=> '<strong>Citados</strong> por %1$s en:',
 	),
 	'NOTIFICATION_REFERENCE'			=> '"%1$s"',
 	'NOTIFICATION_REASON'				=> '<em>Razón:</em> %1$s.',
@@ -502,6 +505,7 @@ $lang = array_merge($lang, array(
 	// Used in conjunction with NOTIFICATION_BOOKMARK and NOTIFICATION_POST.
 	'NOTIFICATION_MANY_OTHERS'			=> 'outros',
 	'NOTIFICATION_X_OTHERS'				=> array(
+		1	=> '%d outro',
 		2	=> 'outros %d',
 	),
 	'NOTIFY_ADMIN'				=> 'Por favor, notifícallo ao administrador.',
@@ -815,13 +819,16 @@ $lang = array_merge($lang, array(
 	'TOPIC_POLL'		=> 'Este tema ten unha enquisa.',
 	'TOTAL_POSTS'		=> 'Mensaxes totáis',
 	'TOTAL_POSTS_COUNT'	=> array(
+		1	=> 'Total de mensaxes <strong>%d</strong>',
 		2	=> 'Total de mensaxes <strong>%d</strong>',
 	),
 	'TOPIC_REPORTED'	=> 'Este tema foi denunciado',
 	'TOTAL_TOPICS'		=> array(
+		1	=> 'Total de temas <strong>%d</strong>',
 		2	=> 'Total de temas <strong>%d</strong>',
 	),
 	'TOTAL_USERS'		=> array(
+		1	=> 'Total de usuarios <strong>%d</strong>',
 		2	=> 'Total de usuarios <strong>%d</strong>',
 	),
 	'TRACKED_PHP_ERROR'	=> 'Erros de PHP rastrexados: %s',

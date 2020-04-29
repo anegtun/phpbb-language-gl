@@ -67,5 +67,5 @@ $lang = array_merge($lang, array(
 	'MASS_MESSAGE_EXPLAIN'	=> 'Ten en conta que só podes usar texto plano. Calquera etiqueta ou marcador será suprimido antes de enviar a mensaxe.',
 
 	'NO_EMAIL_MESSAGE'		=> 'Debes escribir unha mensaxe.',
-	'NO_EMAIL_SUBJECT'		=> 'Debes especificar un asunto para a túa mensaxe.',
+	'NO_EMAIL_SUBJECT'		=> 'Debes especificar un asunto para a túa mensaxe.'
 ));
